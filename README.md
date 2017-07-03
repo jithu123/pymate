@@ -1,1 +1,1 @@
-# pymate
+# Collection of Python references
